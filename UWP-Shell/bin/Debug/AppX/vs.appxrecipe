@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-93H989V</Machine>
+    <WindowsUser>Koen</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ff139df3-13b7-44ed-9348-b0dde057873e</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Koen</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Koen\Source\UWP-Shell\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\Koen\Source\UWP-Shell\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>9761FD4B6E4E062E5D545F2F2B61B0C0799D56EF1CA1B04BAD85068DE153A57F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ff139df3-13b7-44ed-9348-b0dde057873e_1.0.0.0_neutral__5zrp9agt3sadc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ff139df3-13b7-44ed-9348-b0dde057873e_5zrp9agt3sadc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ff139df3-13b7-44ed-9348-b0dde057873e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Koen</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Koen\Source\UWP-Shell\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-02T11:43:45.819</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Koen\Source\UWP-Shell\msapp-error.js">
+      <PackagePath>msapp-error.js</PackagePath>
+      <Modified>2019-10-01T13:55:13.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Koen\Source\UWP-Shell\msapp-error.css">
+      <PackagePath>msapp-error.css</PackagePath>
+      <Modified>2019-09-04T09:12:26.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Koen\Source\UWP-Shell\msapp-error.html">
+      <PackagePath>msapp-error.html</PackagePath>
+      <Modified>2019-09-04T09:12:26.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Koen\Source\UWP-Shell\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2019-09-04T09:12:26.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Koen\Source\UWP-Shell\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-09-04T09:12:26.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Koen\Source\UWP-Shell\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-09-04T09:12:26.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Koen\Source\UWP-Shell\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-09-04T09:12:26.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Koen\Source\UWP-Shell\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-09-04T09:12:26.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Koen\Source\UWP-Shell\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-09-04T09:12:26.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Koen\Source\UWP-Shell\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-09-04T09:12:26.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Koen\Source\UWP-Shell\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2019-10-02T11:43:45.664</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
